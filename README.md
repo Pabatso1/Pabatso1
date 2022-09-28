@@ -4,7 +4,6 @@ Self-taught Python Enthusiast / Basic Python
 
 • Contact me morojelep24@gmail.com
 
-• Portfolio: https://github.com/Pabatso1
 Worked with:
 
 Python 3.x
